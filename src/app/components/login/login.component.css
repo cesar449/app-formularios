@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.btn-custom {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px; /**/
+}
+.card {
+    width: 100%;
+    max-width: 400px;
+}
